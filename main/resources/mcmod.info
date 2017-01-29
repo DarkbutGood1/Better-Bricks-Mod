@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dbgbbm",
+  "name": "BetterBricksMod",
+  "description": "Example placeholder mod.",
+  "version": "0.5",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dark_but_Good"],
+  "credits" "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
